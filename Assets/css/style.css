@@ -1,6 +1,6 @@
 body{
     background-color: rgb(165, 148, 148);
-    
+    max-width: max-content;
 }
 .nav{
     display:flex;
@@ -23,9 +23,21 @@ li{
     font-size:x-large;
 }
 .content{
-    margin: 12rem 0rem 0rem 4.5rem;
+    margin: 12rem 0rem 12rem 4.5rem;
 }
 #about{
     font-size: xx-large;
     font-weight: bold;
+}
+.part1{
+    display: flex;
+    justify-content: space-around;
+}
+.part2{
+    display: flex;
+    justify-content: space-around;
+}
+.txt{
+    width: 250px;
+    height: 200rem;
 }
