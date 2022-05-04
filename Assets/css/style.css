@@ -31,11 +31,13 @@ li{
 }
 .part1{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    padding-top: 0rem;
 }
 .part2{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    padding-top: 1rem;
 }
 .txt{
     width: 250px;
@@ -93,5 +95,22 @@ li{
   }
   .readmore a{
     text-decoration: none;
+  }
+  .items{
+      width: 17rem;
+      height: 12rem;
+      padding-left: 2rem;
+      padding-bottom: 0.4rem;
+      background-color: white;
+  }
+  #wright{
+      padding: 0rem;
+      color: blue;
+  }
+  #news{
+      padding-left: 14rem;
+      font-weight: bold;
+      font-size: xx-large;
+      margin-bottom: 0.5rem;
   }
   
