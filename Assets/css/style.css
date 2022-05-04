@@ -1,3 +1,31 @@
 body{
+    background-color: rgb(165, 148, 148);
     
+}
+.nav{
+    display:flex;
+    justify-content: space-between;
+    margin: 1.5rem;
+    border: 1px solid
+
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    padding:1rem;
+}
+.titan{
+    margin: 0.5rem 0rem 0rem 3rem;
+    font-weight: bolder;
+    font-size:x-large;
+}
+.content{
+    margin: 12rem 0rem 0rem 4.5rem;
+}
+#about{
+    font-size: xx-large;
+    font-weight: bold;
 }
