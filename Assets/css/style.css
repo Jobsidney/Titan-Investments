@@ -110,7 +110,6 @@ li{
   .readmore a{
     text-decoration: none;
   }
-<<<<<<< HEAD
   /* jovan */
   hr{
       margin-left: 30px;
@@ -120,8 +119,7 @@ li{
       height: 100px;
       text-align: end;
       padding-top: 30px;
-      padding-right: 50px;
-=======
+      padding-right: 50px;}
   .items{
       width: 17rem;
       height: 12rem;
@@ -138,6 +136,5 @@ li{
       font-weight: bold;
       font-size: xx-large;
       margin-bottom: 0.5rem;
->>>>>>> f1c295137c4997ba757878b3a7a8c4ed76372b31
   }
   
